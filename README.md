@@ -4,14 +4,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Arman11r/Leetcode-2025/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/Arman11r/Leetcode-2025/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Arman11r/Leetcode-2025/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/Arman11r/Leetcode-2025/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Arman11r/Leetcode-2025/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/Arman11r/Leetcode-2025/tree/master/0392-is-subsequence) |
 ## Array
 |  |
