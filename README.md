@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arman11r/Leetcode-2025/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Arman11r/Leetcode-2025/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Arman11r/Leetcode-2025/tree/master/0392-is-subsequence) |
 ## Array
 |  |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arman11r/Leetcode-2025/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Arman11r/Leetcode-2025/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Arman11r/Leetcode-2025/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
