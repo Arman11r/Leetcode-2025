@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arman11r/Leetcode-2025/tree/master/0169-majority-element) |
+| [1127-last-stone-weight](https://github.com/Arman11r/Leetcode-2025/tree/master/1127-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Arman11r/Leetcode-2025/tree/master/0070-climbing-stairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/Arman11r/Leetcode-2025/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
