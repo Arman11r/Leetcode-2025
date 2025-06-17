@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arman11r/Leetcode-2025/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Arman11r/Leetcode-2025/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/Arman11r/Leetcode-2025/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Arman11r/Leetcode-2025/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arman11r/Leetcode-2025/tree/master/0169-majority-element) |
+| [0322-coin-change](https://github.com/Arman11r/Leetcode-2025/tree/master/0322-coin-change) |
 | [1127-last-stone-weight](https://github.com/Arman11r/Leetcode-2025/tree/master/1127-last-stone-weight) |
 ## Hash Table
 |  |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/Arman11r/Leetcode-2025/tree/master/1127-last-stone-weight) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Arman11r/Leetcode-2025/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
