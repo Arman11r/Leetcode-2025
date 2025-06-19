@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Arman11r/Leetcode-2025/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/Arman11r/Leetcode-2025/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Arman11r/Leetcode-2025/tree/master/0342-power-of-four) |
 ## Memoization
 |  |
@@ -64,5 +65,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Arman11r/Leetcode-2025/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Arman11r/Leetcode-2025/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
