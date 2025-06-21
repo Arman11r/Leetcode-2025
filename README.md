@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arman11r/Leetcode-2025/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Arman11r/Leetcode-2025/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/Arman11r/Leetcode-2025/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arman11r/Leetcode-2025/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Arman11r/Leetcode-2025/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Arman11r/Leetcode-2025/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Arman11r/Leetcode-2025/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Arman11r/Leetcode-2025/tree/master/0392-is-subsequence) |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/Arman11r/Leetcode-2025/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Arman11r/Leetcode-2025/tree/master/0342-power-of-four) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Arman11r/Leetcode-2025/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
