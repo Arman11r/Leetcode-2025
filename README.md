@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Arman11r/Leetcode-2025/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Arman11r/Leetcode-2025/tree/master/0169-majority-element) |
 | [0322-coin-change](https://github.com/Arman11r/Leetcode-2025/tree/master/0322-coin-change) |
 | [1127-last-stone-weight](https://github.com/Arman11r/Leetcode-2025/tree/master/1127-last-stone-weight) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Arman11r/Leetcode-2025/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Arman11r/Leetcode-2025/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/Arman11r/Leetcode-2025/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Arman11r/Leetcode-2025/tree/master/0342-power-of-four) |
