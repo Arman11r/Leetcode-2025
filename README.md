@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Arman11r/Leetcode-2025/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Arman11r/Leetcode-2025/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/Arman11r/Leetcode-2025/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Arman11r/Leetcode-2025/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/Arman11r/Leetcode-2025/tree/master/0322-coin-change) |
 | [1127-last-stone-weight](https://github.com/Arman11r/Leetcode-2025/tree/master/1127-last-stone-weight) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arman11r/Leetcode-2025/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Arman11r/Leetcode-2025/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -88,8 +90,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Arman11r/Leetcode-2025/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Arman11r/Leetcode-2025/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Arman11r/Leetcode-2025/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Arman11r/Leetcode-2025/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
