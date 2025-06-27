@@ -96,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Arman11r/Leetcode-2025/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Arman11r/Leetcode-2025/tree/master/0240-search-a-2d-matrix-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Arman11r/Leetcode-2025/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
