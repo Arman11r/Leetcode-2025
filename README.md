@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Arman11r/Leetcode-2025/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Arman11r/Leetcode-2025/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Arman11r/Leetcode-2025/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Arman11r/Leetcode-2025/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Arman11r/Leetcode-2025/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Arman11r/Leetcode-2025/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Arman11r/Leetcode-2025/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Arman11r/Leetcode-2025/tree/master/0070-climbing-stairs) |
+| [0131-palindrome-partitioning](https://github.com/Arman11r/Leetcode-2025/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/Arman11r/Leetcode-2025/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Arman11r/Leetcode-2025/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/Arman11r/Leetcode-2025/tree/master/0392-is-subsequence) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arman11r/Leetcode-2025/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Arman11r/Leetcode-2025/tree/master/0131-palindrome-partitioning) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Arman11r/Leetcode-2025/tree/master/0357-count-numbers-with-unique-digits) |
 ## Stack
 |  |
