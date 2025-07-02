@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Arman11r/Leetcode-2025/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Arman11r/Leetcode-2025/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Arman11r/Leetcode-2025/tree/master/0322-coin-change) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Arman11r/Leetcode-2025/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/Arman11r/Leetcode-2025/tree/master/0392-is-subsequence) |
 ## Array
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Arman11r/Leetcode-2025/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/Arman11r/Leetcode-2025/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Arman11r/Leetcode-2025/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Arman11r/Leetcode-2025/tree/master/0357-count-numbers-with-unique-digits) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Arman11r/Leetcode-2025/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Memoization
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arman11r/Leetcode-2025/tree/master/0022-generate-parentheses) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Arman11r/Leetcode-2025/tree/master/0357-count-numbers-with-unique-digits) |
 ## Stack
 |  |
 | ------- |
