@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Arman11r/Leetcode-2025/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Arman11r/Leetcode-2025/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Arman11r/Leetcode-2025/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/Arman11r/Leetcode-2025/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Arman11r/Leetcode-2025/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arman11r/Leetcode-2025/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Arman11r/Leetcode-2025/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arman11r/Leetcode-2025/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Arman11r/Leetcode-2025/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
